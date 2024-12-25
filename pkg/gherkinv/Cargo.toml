@@ -1,0 +1,7 @@
+[package]
+name = "gherkinv"
+version = "0.1.0"
+edition = "2024"
+
+[dependencies]
+gherkin = "0.14"
